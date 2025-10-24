@@ -1,10 +1,6 @@
-# <p align="center"> 4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations </p>
+# <p align="center"> Real-Time Virtual Try-On and Outfit Recommendation Using PCA-KMeans and WebGL-Based 3D Avatars <img width="3974" height="175" alt="image" src="https://github.com/user-attachments/assets/2829bc5d-63f0-42e8-8cad-3aa67b8f9a8c" />
+ </p>
 
-###  <p align="center"> [Wenbo Wang*](https://wenbwa.github.io), [Hsuan-I Ho*](https://ait.ethz.ch/people/hohs), [Chen Guo](https://ait.ethz.ch/people/cheguo), [Boxiang Rong](https://ribosome-rbx.github.io), [Artur Grigorev](https://ait.ethz.ch/people/agrigorev), [Jie Song](https://ait.ethz.ch/people/song), [Juan Jose Zarate](https://ait.ethz.ch/people/jzarate), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges) </p>
-
-### <p align="center"> [CVPR 2024 Highlight](https://cvpr2023.thecvf.com) </p>
-
-## <p align="center"> [ArXiv](https://arxiv.org/abs/2404.18630) / [Video](https://www.youtube.com/watch?v=dEQ4dvO8BsE) / [Dataset](https://4d-dress.ait.ethz.ch) / [Website](https://eth-ait.github.io/4d-dress/) </p>
 
 <p align="center">
   <img width="100%" src="assets/4D-DRESS.png"/>
